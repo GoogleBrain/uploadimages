@@ -1,0 +1,4 @@
+上传多张图片，并且可以回显。
+CREATE TABLE `imguploadinfo` (
+  `imgPath` varchar(255) DEFAULT ''
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
